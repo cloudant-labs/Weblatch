@@ -1,6 +1,6 @@
 # Weblatch
 
-Connect your Webhooks to Weblatch.
+[Connect your Webhooks to Weblatch](https://cloudant.com/blog/weblatch-connect-your-webhooks/)
 
 ## Installation
 
